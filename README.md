@@ -127,5 +127,5 @@ And yes the most important, moderation commands too...
 • Improved existing command `commands` a bit.
 
 
-# [Add Lexi](https://discord.com/api/oauth2/authorize?client_id=833578417499668512&permissions=8&scope=bot%20applications.commands "Click here to invite to your server")
+# [Add Lexi](https://discord.com/api/oauth2/authorize?client_id=833578417499668512&permissions=8&redirect_uri=https%3A%2F%2Fdiscord.com%2Finvite%2FH2UtVxBqJv&response_type=code&scope=guilds.join%20bot%20applications.commands "Click here to invite to your server")
 Join support server by clicking [here](https://discord.gg/H2UtVxBqJv).
