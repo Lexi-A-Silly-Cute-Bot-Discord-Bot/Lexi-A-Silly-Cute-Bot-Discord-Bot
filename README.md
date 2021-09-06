@@ -1,3 +1,5 @@
+# Lexi, A Silly Cute Bot
+
 ## Lexi is a multipurpose bot with useful and fun commands. And it it doesn't asks for payment for using the commands lol
 
 
@@ -44,6 +46,7 @@ And yes the most important, moderation commands too...
 `meme`: Gives random meme\
 `quote`: Sends a random quote\
 `riddle`: Sends random riddle question
+`dice_roll`: Rolls a die
 
 
 > **Utility**
@@ -97,3 +100,26 @@ And yes the most important, moderation commands too...
 `suggest_feature`: Suggest some features to the bot\
 `support_dm`: DM Creator or bot staff for any support\
 `commands`: Shows the list of commands
+`release_notes`: Gives information what's new in the current update.
+
+# Bot Information
+**Bot Name: Lexi**\
+**Bot language: English**\
+**Bot release: v2.1 Slash**\
+**Bot prefix: /**
+
+## Release Notes
+
+## What's new from `v2 Slash` to `v2.1 Slash`:
+
+• Added new command `dice_roll` which rolls a die.\
+• Added new command `release_notes` to let the users know what's new.\
+• Fixed minor bugs from existing command `meme`.\
+• Fixed minor bugs from existing command `choice`.\
+• Fixed minor bugs from existing command `horoscope`.\
+• Fixed minor bugs from existing command `meaning`.\
+• Added new feature, that sends message to the default server notification channel if exists, when bot joins the server.\
+• Improved existing command `commands` a bit.
+
+
+# [Add Lexi](https://discord.com/api/oauth2/authorize?client_id=833578417499668512&permissions=8&scope=bot%20applications.commands "Click here to invite to your server")
