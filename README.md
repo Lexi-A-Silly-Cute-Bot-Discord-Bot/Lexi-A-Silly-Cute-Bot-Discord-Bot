@@ -10,6 +10,7 @@ And yes the most important, moderation commands too...
 ## Command list of Lexi
 
 > **Moderation**\
+
 `warn`: Warns a user in DM\
 `ban`: Bans a user\
 `unban`: Unbans a user from the server\
@@ -22,6 +23,7 @@ And yes the most important, moderation commands too...
 
 
 > **Useful in Server**\
+
 `avatar`: Shows the avatar of an user\
 `change_nick`: Changes nickname of a user in the server\
 `embed`: Creates an embed\
@@ -32,6 +34,7 @@ And yes the most important, moderation commands too...
 
 
 > **Fun**\
+
 `calculate_love`: Just a love meter\
 `dare`: Gives random dare question\
 `truth`: Sends a random truth question\
@@ -44,6 +47,7 @@ And yes the most important, moderation commands too...
 
 
 > **Utility**\
+
 `lyrics`: Finds the lyrics of a song\
 `binary2string`: Changes binary to string\
 `string2binary`: Converts string to binary\
@@ -68,6 +72,7 @@ And yes the most important, moderation commands too...
 
 
 > **Hash**\
+
 `md5`: Creates MD5 hash\
 `sha1`: Creates SHA1 hash\
 `sha224`: Creates SHA224 hash\
@@ -77,6 +82,7 @@ And yes the most important, moderation commands too...
 
 
 > **Social**\
+
 `hug`: Sends a random hug GIF\
 `kiss`: Sends random kiss GIF\
 `pat`: Random pat GIF\
@@ -84,6 +90,7 @@ And yes the most important, moderation commands too...
 
 
 > **Others**\
+
 `add_bot`: Gives the invite link to add this bot\
 `help`: Shows help message\
 `report_issue`: Report an bot issue\
