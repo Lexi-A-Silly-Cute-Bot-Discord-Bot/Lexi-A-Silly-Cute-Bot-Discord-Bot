@@ -128,4 +128,4 @@ And yes the most important, moderation commands too...
 
 
 # [Add Lexi](https://discord.com/api/oauth2/authorize?client_id=833578417499668512&permissions=8&scope=bot%20applications.commands "Click here to invite to your server")
-Join support server by clicking [here]({support_server}).
+Join support server by clicking [here]({https://discord.gg/H2UtVxBqJv}).
