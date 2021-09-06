@@ -105,20 +105,25 @@ And yes the most important, moderation commands too...
 # Bot Information
 **Bot Name: Lexi**\
 **Bot language: English**\
-**Bot release: v2.1 Slash**\
+**Bot release: v2.1.1 Slash**\
 **Bot prefix: /**
 
 ## Release Notes
 
+## What's new from `v2.1 Slash` to `v2.1.1 Slash`:
+
+• Improved existing command `commands`. Now it sends the list in DM.
+
+
 ## What's new from `v2 Slash` to `v2.1 Slash`:
 
-• Added new command `dice_roll` which rolls a die.\
-• Added new command `release_notes` to let the users know what's new.\
-• Fixed minor bugs from existing command `meme`.\
-• Fixed minor bugs from existing command `choice`.\
-• Fixed minor bugs from existing command `horoscope`.\
-• Fixed minor bugs from existing command `meaning`.\
-• Added new feature, that sends message to the default server notification channel if exists, when bot joins the server.\
+• Added new command `dice_roll` which rolls a die.
+• Added new command `release_notes` to let the users know what's new.
+• Fixed minor bugs from existing command `meme`.
+• Fixed minor bugs from existing command `choice`.
+• Fixed minor bugs from existing command `horoscope`.
+• Fixed minor bugs from existing command `meaning`.
+• Added new feature, that sends message to the default server notification channel if exists, when bot joins the server.
 • Improved existing command `commands` a bit.
 
 
