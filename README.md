@@ -99,7 +99,7 @@ And yes the most important, moderation commands too...
 `report_issue`: Report an bot issue\
 `suggest_feature`: Suggest some features to the bot\
 `support_dm`: DM Creator or bot staff for any support\
-`commands`: Shows the list of commands
+`commands`: Shows the list of commands\
 `release_notes`: Gives information what's new in the current update.
 
 # Bot Information
