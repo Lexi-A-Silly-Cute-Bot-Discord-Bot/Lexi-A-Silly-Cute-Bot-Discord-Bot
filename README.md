@@ -1,6 +1,6 @@
 # Lexi, A Silly Cute Bot
 
-## Lexi is a multipurpose bot with useful and fun commands. And it it doesn't asks for payment for using the commands lol
+## Lexi is a multipurpose bot with useful and fun commands. And it doesn't asks for payment for using the commands lol
 
 
 > Lexi is a multipurpose bot with super useful commands as well as some fun commands like truth, dare, riddle, joke and others so that stuff don't get boring.\
